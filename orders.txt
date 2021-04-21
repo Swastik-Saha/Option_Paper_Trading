@@ -1,0 +1,11 @@
+Bought 25 quantity of BANKNIFTY 22-Apr-2021 31000 Call in Rs.373.75 on Wed Apr 21 11:39:19 2021
+Bought 25 quantity of BANKNIFTY 22-Apr-2021 31000 Call in Rs.373.75 on Wed Apr 21 11:39:22 2021
+Bought 25 quantity of BANKNIFTY 22-Apr-2021 31000 Call in Rs.373.75 on Wed Apr 21 11:39:25 2021
+Sold 25 quantity of BANKNIFTY 22-Apr-2021 31000 Call in Rs.363.65 on Wed Apr 21 11:39:31 2021
+Sold 25 quantity of BANKNIFTY 22-Apr-2021 31500 Call in Rs.125.45 on Wed Apr 21 11:39:40 2021
+Sold 25 quantity of BANKNIFTY 22-Apr-2021 31500 Call in Rs.125.45 on Wed Apr 21 11:39:44 2021
+Sold 25 quantity of BANKNIFTY 22-Apr-2021 31500 Call in Rs.125.45 on Wed Apr 21 11:41:10 2021
+Sold 25 quantity of BANKNIFTY 22-Apr-2021 31500 Call in Rs.125.45 on Wed Apr 21 11:41:48 2021
+Bought 25 quantity of BANKNIFTY 22-Apr-2021 31500 Call in Rs.131 on Wed Apr 21 11:41:54 2021
+Bought 50 quantity of BANKNIFTY 22-Apr-2021 31500 Call in Rs.131 on Wed Apr 21 11:41:58 2021
+Sold 50 quantity of BANKNIFTY 22-Apr-2021 31000 Call in Rs.363.65 on Wed Apr 21 11:42:10 2021
